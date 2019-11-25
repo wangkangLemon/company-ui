@@ -1,0 +1,21 @@
+{
+    "code": 0,
+    "message": "",
+    "data": {
+        "list": [
+            {
+                "id": 123,
+                "num": "EK0909",
+                "department_id": 38,
+                "department_name": "高新六路北口店",
+                "customer_id": 13,
+                "customer_vip_name": "张三",
+                "mobile": "13389890292",
+                "customer_vip_num": "KP0862",
+                "created_at": "2008-01-03 23:08:21",
+                "real_money": "3238.90"
+            }
+        ],
+        "total": 32
+    }
+}

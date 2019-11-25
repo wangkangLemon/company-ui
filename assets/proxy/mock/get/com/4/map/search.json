@@ -1,0 +1,33 @@
+{
+    "code": 0,
+    "message": "成功",
+    "data": {
+        "data": [
+            {
+                "id": 1,
+                "title": "模板名称2",
+                "phase_total": 2,
+                "user_name": "张三",
+                "create_time": "2018-01-03 10:11:12",
+                "update_time": "2018-01-03 10:11:12"
+            },
+            {
+                "id": 1,
+                "title": "模板名称",
+                "phase_total": 2,
+                "user_name": "张三",
+                "create_time": "2018-01-03 10:11:12",
+                "update_time": "2018-01-03 10:11:12"
+            },
+            {
+                "id": 1,
+                "title": "模板名称",
+                "phase_total": 2,
+                "user_name": "张三",
+                "create_time": "2018-01-03 10:11:12",
+                "update_time": "2018-01-03 10:11:12"
+            }
+        ],
+        "total": 3
+    }
+}

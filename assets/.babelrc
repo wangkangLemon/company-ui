@@ -1,0 +1,24 @@
+{
+    "presets": [
+        [
+            "env",
+            {
+                "modules": false
+            }
+        ],
+        "stage-2"
+    ],
+    "plugins": [
+        "transform-runtime",
+        "transform-vue-jsx",
+        [
+            "component",
+            [
+                {
+                    "libraryName": "element-ui",
+                    "styleLibraryName": "~theme"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+image: hub.docker.vodjk.com:5000/node/common
+
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  only:
+    - master
+  script:
+    - curl -Ss -XPOST "http://admin:3ec9ab5a14dfa4fcdfd551751c3d8365@jenkins.vodjk.com/job/yst-company-ui-build-docker-pro/build?token=uuxREAji8EEerdiqw9rbfxa"

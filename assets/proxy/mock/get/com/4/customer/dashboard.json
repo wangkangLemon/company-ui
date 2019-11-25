@@ -1,0 +1,40 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "stat": {
+            "vip_num": 32,
+            "buy_num": 21,
+            "average_unit_price": 29.9
+        },
+        "sex": {
+            "male_count": 10,
+            "female_count": 24
+        },
+        "ages": {
+            "num1_count": 6,
+            "num2_count": 10,
+            "num3_count": 13,
+            "num4_count": 19,
+            "num5_count": 4
+        },
+        "top_tag": [
+            {
+                "name": "高血压",
+                "value": 12
+            }
+        ],
+        "top_sale_tag": [
+            {
+                "name": "高血压",
+                "value": 12
+            }
+        ],
+        "top_sale_medicine": [
+            {
+                "name": "中药",
+                "value": 10000
+            }
+        ]
+    }
+}

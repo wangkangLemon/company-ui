@@ -1,0 +1,104 @@
+legend {
+    padding-bottom: 3px;
+    border-bottom: 1px solid #e2e7eb;
+    display: block;
+    // width: 100%;
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: inherit;
+    color: #333;
+    // border-bottom: 1px solid #e5e5e5;
+}
+
+h5 {
+    font-weight: 500;
+    color: #242a30;
+}
+
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.label.label-default {
+    background: #b6c2c9;
+}
+
+.m-r-5 {
+    margin-right: 5px!important;
+}
+
+.subject {
+    margin-bottom: 20px;
+    .options {
+        dt {
+            width: 20px;
+            text-align: center;
+        }
+        dd {
+            margin-left: 30px;
+            margin-bottom: 5px;
+            text-align: left;
+        }
+    }
+}
+
+
+@media (min-width: 768px) {
+    .dl-horizontal dt {
+        float: left;
+        width: 160px;
+        overflow: hidden;
+        clear: left;
+        text-align: right;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0);
+}
+
+.fa-check-circle {
+    color: #00acac;
+    &:before {
+        content: "\F058";
+    }
+}
+
+.fa-times-circle {
+    color: #ff5b57;
+    &:before {
+        content: "\F057";
+    }
+}
+
+.fa-exclamation-circle {
+    color: #f59c1a;
+    &:before {
+        content: "\F06A";
+    }
+}
+
+.fa-exclamation-circle:before {
+    content: "\F06A";
+}
+
+.fa-circle-o:before {
+    content: "\F10C";
+}

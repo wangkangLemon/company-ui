@@ -1,0 +1,26 @@
+// change theme-chalk slightly
+
+.el-tree {
+    border: 1px solid #dcdfe6;
+    .el-tree-node {
+        .el-tree-node__content {
+            height: 36px;
+        }
+    }
+}
+
+.el-table th, .el-table td {
+    padding: 0;
+    height: 40px;
+    .cell {
+        button {
+            white-space: initial;
+            text-align: left;
+        }
+    }
+}
+section.search {
+    .el-date-editor .el-range-separator {
+        width: 6%;
+    }
+}

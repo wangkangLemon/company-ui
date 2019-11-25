@@ -1,0 +1,39 @@
+{
+    "code": 0,
+    "message": "",
+    "data": {
+        "data": [
+            {
+                "phase": "412dHIJJJf",
+                "require": 81231,
+                "require_finish": 58848,
+                "unrequire": 92243,
+                "unrequire_finish": 37263,
+                "score": 49631,
+                "phase_update_time": "1516782864723",
+                "phase_finish_time": "1516782433139"
+            },
+            {
+                "phase": "HF2FLVih8Y",
+                "require": 44291,
+                "require_finish": 50739,
+                "unrequire": 91575,
+                "unrequire_finish": 54224,
+                "score": 17541,
+                "phase_update_time": "1516781066119",
+                "phase_finish_time": "1516782592947"
+            },
+            {
+                "phase": "4gfpnW2Jy2",
+                "require": 25255,
+                "require_finish": 99863,
+                "unrequire": 26940,
+                "unrequire_finish": 73456,
+                "score": 40586,
+                "phase_update_time": "1516782396339",
+                "phase_finish_time": "1516781524815"
+            }
+        ],
+        "total": 5
+    }
+}

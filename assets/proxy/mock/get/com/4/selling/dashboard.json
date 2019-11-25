@@ -1,0 +1,58 @@
+{
+    "code": 0,
+    "message": "",
+    "data": {
+        "stat": {
+            "selling_money": "3390.20",
+            "selling_count": 3203,
+            "avg_customer_price": "83.2"
+        },
+        "department_selling_top": [
+            {
+                "department_id": 3,
+                "department_name": "电子二路店",
+                "selling_money": "3254.30"
+            }
+        ],
+        "medicine_category_selling_top": [
+            {
+                "medicine_category_id": 123,
+                "medicine_category_name": "高血压",
+                "selling_money": "3920.85"
+            }
+        ],
+        "medicine_selling_top": [
+            {
+                "medicine_id": 123,
+                "medicine_name": "卡维地洛",
+                "selling_money": "3800.85"
+            }
+        ],
+        "user_selling_top": [
+            {
+                "user_id": 2,
+                "user_name": "张三",
+                "department_name":"科技二路店",
+                "selling_money": "2809.56"
+            }
+        ],
+        "sex_distribution": {
+            "male_money": "2313.32",
+            "female_money": "9213.42"
+        },
+        "age_distribution": {
+            "num1_money": "9821.3",
+            "num2_money": "642.3",
+            "num3_money": "323.4",
+            "num4_money": "98.2",
+            "num5_money": "321.32"
+        },
+        "tag_distribution": [
+            {
+                "tag_id": 3,
+                "tag_name": "高血压",
+                "selling_money":"2000.32"
+            }
+        ]
+    }
+}

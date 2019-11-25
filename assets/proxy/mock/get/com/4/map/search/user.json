@@ -1,0 +1,42 @@
+{
+    "code": 0,
+    "message": " ",
+    "data": {
+        "data": [
+            {
+                "user_id": 1,
+                "user_name": "GJOrJiT2fL",
+                "mobile": "vP0U3RXHXb",
+                "staff_id": "99879",
+                "department_name": "0wOaG6i1hb",
+                "learning_maps_id": 1,
+                "learning_maps_name": "FiiwwetVqs",
+                "current_phase": "CbqLnGwh5K",
+                "last_phase_time": "1516782358503"
+            },
+            {
+                "user_id": 100658,
+                "user_name": "tXWgkzvlq2",
+                "mobile": "qsBqZEUpGi",
+                "staff_id": "101594",
+                "department_name": "YGwh2cDwPX",
+                "learning_maps_id": 102200,
+                "learning_maps_name": "UDxHihpPSd",
+                "current_phase": "nhKTY8S4xY",
+                "last_phase_time": "1516782828264"
+            },
+            {
+                "user_id": 103016,
+                "user_name": "xB9EX4EOvZ",
+                "mobile": "nV5Q0ydD90",
+                "staff_id": "103118",
+                "department_name": "zwUq3BQSvk",
+                "learning_maps_id": 103879,
+                "learning_maps_name": "nwsqVZdL1O",
+                "current_phase": "CJxaloh4T4",
+                "last_phase_time": "1516782294391"
+            }
+        ],
+        "total": 3
+    }
+}

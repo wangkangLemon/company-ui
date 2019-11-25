@@ -1,0 +1,92 @@
+{
+    "code": 0,
+    "message": "",
+    "data": {
+        "stat": {
+            "flowing_count": 389,
+            "flowing_number": 908,
+            "purchase_count": 89,
+            "add_vip_count": 22,
+            "customer_conversion_rate": "58.99%",
+            "related": "3.5"
+        },
+        "flowing_count": [
+            {
+                "day": "2018-01-01",
+                "count": 23771
+            },
+            {
+                "day": "2018-01-02",
+                "count": 23772
+            },
+            {
+                "day": "2018-01-03",
+                "count": 23773
+            },
+            {
+                "day": "2018-01-04",
+                "count": 23774
+            },
+            {
+                "day": "2018-01-05",
+                "count": 23775
+            },
+            {
+                "day": "2018-01-06",
+                "count": 23776
+            },
+            {
+                "day": "2018-01-07",
+                "count": 23777
+            }
+        ],
+        "purchase_count": [
+            {
+                "day": "2018-01-01",
+                "count": 13021
+            },
+            {
+                "day": "2018-01-02",
+                "count": 13022
+            },
+            {
+                "day": "2018-01-03",
+                "count": 13023
+            },
+            {
+                "day": "2018-01-04",
+                "count": 13024
+            },
+            {
+                "day": "2018-01-05",
+                "count": 13025
+            },
+            {
+                "day": "2018-01-06",
+                "count": 13026
+            },
+            {
+                "day": "2018-01-07",
+                "count": 13027
+            }
+        ],
+        "sex_distribution": {
+            "male_count": 3,
+            "male_ratio": "33%",
+            "female_count": 6,
+            "female_ratio": "67%"
+        },
+        "age_distribution": {
+            "num1_count": 6,
+            "num2_count": 10,
+            "num3_count": 13,
+            "num4_count": 19,
+            "num5_count": 4,
+            "num1_ratio": "2.2%",
+            "num2_ratio": "3.8%",
+            "num3_ratio": "49.6%",
+            "num4_ratio": "39.4%",
+            "num5_ratio": "21.6%"
+        }
+    }
+}

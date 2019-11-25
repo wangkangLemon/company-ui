@@ -1,0 +1,160 @@
+{
+    "code": 0,
+    "message": "",
+    "data": {
+        "data": {
+            "id": 1,
+            "company_id": 4,
+            "title": "新员工学习地图1",
+            "image": "L1UR5vsBp2",
+            "total_phase": 3,
+            "type": "department",
+            "deleted": 1,
+            "create_type": "user",
+            "create_id": 73,
+            "update_id": 73,
+            "push_type_id": "",
+            "phase_list": [
+                {
+                    "id": 1,
+                    "learning_maps_id": 1,
+                    "phase": 1,
+                    "study_score": 10,
+                    "sequence": 1,
+                    "elective": 2,
+                    "elective_count": 1,
+                    "deleted": 1,
+                    "phase_object_list": [
+                        {
+                            "id": 1,
+                            "learning_maps_id": 1,
+                            "phase_id": 1,
+                            "type": 1,
+                            "object_type": 1,
+                            "object_id": 1,
+                            "object_name": "这是什么课1",
+                            "sort": 1,
+                            "deleted": 1
+                        },
+                        {
+                            "id": 2,
+                            "learning_maps_id": 1,
+                            "phase_id": 1,
+                            "type": 1,
+                            "object_type": 1,
+                            "object_id": 2,
+                            "object_name": "这是什么课2",
+                            "sort": 2,
+                            "deleted": 1
+                        },
+                        {
+                            "id": 4,
+                            "learning_maps_id": 1,
+                            "phase_id": 1,
+                            "type": 2,
+                            "object_type": 1,
+                            "object_id": 4,
+                            "object_name": "TEST",
+                            "sort": 2,
+                            "deleted": 1
+                        },
+                        {
+                            "id": 3,
+                            "learning_maps_id": 1,
+                            "phase_id": 1,
+                            "type": 2,
+                            "object_type": 2,
+                            "object_id": 3,
+                            "object_name": "复方红衣补血口服液",
+                            "sort": 1,
+                            "deleted": 1
+                        },
+                        {
+                            "id": 5,
+                            "learning_maps_id": 1,
+                            "phase_id": 1,
+                            "type": 3,
+                            "object_type": 3,
+                            "object_id": 5,
+                            "object_name": "",
+                            "sort": 1,
+                            "deleted": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "learning_maps_id": 1,
+                    "phase": 2,
+                    "study_score": 10,
+                    "sequence": 1,
+                    "elective": 2,
+                    "elective_count": 1,
+                    "deleted": 1,
+                    "phase_object_list": [
+                        {
+                            "id": 6,
+                            "learning_maps_id": 1,
+                            "phase_id": 2,
+                            "type": 1,
+                            "object_type": 1,
+                            "object_id": 6,
+                            "object_name": "鼻炎",
+                            "sort": 1,
+                            "deleted": 1
+                        },
+                        {
+                            "id": 7,
+                            "learning_maps_id": 1,
+                            "phase_id": 2,
+                            "type": 1,
+                            "object_type": 1,
+                            "object_id": 7,
+                            "object_name": "避孕",
+                            "sort": 2,
+                            "deleted": 1
+                        },
+                        {
+                            "id": 9,
+                            "learning_maps_id": 1,
+                            "phase_id": 2,
+                            "type": 2,
+                            "object_type": 1,
+                            "object_id": 9,
+                            "object_name": "腹泻",
+                            "sort": 2,
+                            "deleted": 1
+                        },
+                        {
+                            "id": 8,
+                            "learning_maps_id": 1,
+                            "phase_id": 2,
+                            "type": 2,
+                            "object_type": 2,
+                            "object_id": 8,
+                            "object_name": "发热如何用药",
+                            "sort": 1,
+                            "deleted": 1
+                        },
+                        {
+                            "id": 10,
+                            "learning_maps_id": 1,
+                            "phase_id": 2,
+                            "type": 3,
+                            "object_type": 3,
+                            "object_id": 10,
+                            "object_name": "",
+                            "sort": 1,
+                            "deleted": 1
+                        }
+                    ]
+                }
+            ],
+            "create_time_name": "2018-01-26 16:36:15",
+            "create_time_unix": 0,
+            "update_time_name": "2018-01-26 16:36:15",
+            "update_time_unix": 0
+        },
+        "push_type_list": []
+    }
+}

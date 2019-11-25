@@ -1,0 +1,119 @@
+%content-container {
+    padding: 15px;
+    position: relative;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    background: #fff;
+
+    &:after {
+        content: '';
+        clear: both;
+        display: block;
+    }
+
+    .pagin {
+        float: right;
+        margin-top: 15px;
+    }
+
+    // 底部的管理按钮 比如批量删除
+    .bottom-manage {
+        margin-top: 15px;
+    }
+    .search {
+        @extend %top-search-container;
+    }
+    .top-btn {
+        @extend %right-top-btnContainer;
+    }
+
+    .block {
+        text-align: right;
+        margin-top: 15px;
+    }
+}
+
+%top-search-container {
+    > section {
+        margin-left: 10px;
+        margin-bottom: 14px;
+        display: inline-block;
+        margin-right: 10px;
+
+        > span, i {
+            margin-right: 2px;
+        }
+
+        > * {
+            vertical-align: middle;
+            display: inline-block;
+        }
+    }
+
+    .el-input {
+        width: auto;
+    }
+}
+
+// 右上角按钮的容器样式
+%right-top-btnContainer{
+    position: absolute;
+    right: 0;
+    top: -50px;
+    &.header-button {
+        > .el-button {
+            i {
+                margin-right: 5px;
+                &:before {
+                    position: relative;
+                    top: -1px;
+                }
+            }
+        }
+    }
+}
+
+// 常用颜色定义
+.text-blue {
+    color: #20A0FF
+}
+.text-light-blue {
+  color: #58B7FF
+}
+.text-dark-blue {
+    color: #1D8CE0
+}
+.text-success{
+    color: #13CE66
+}
+.text-warning{
+    color: #F7BA2A
+}
+.text-danger{
+    color: #FF4949
+}
+//element-ui Button size: Full
+.el-button--full{
+    padding: 11px 19px;
+    font-size: 16px;
+    border-radius: 4px;
+    display: inline-block;
+    width: 100%;
+}
+//element-ui Button type: Gray
+.el-button--gray{
+    color: #333;
+    background-color: #eee;
+    border-color: #eee;
+}
+.el-button--gray:focus, .el-button--gray:hover {
+    color: #333;
+    background-color: #eee;
+    border-color: #eee;
+}
+
+.utils-top-15{
+    margin-top: 15px;
+}
+
+@import './theme_change.scss'
