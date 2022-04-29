@@ -10,7 +10,7 @@
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@arr/filter/-/filter-1.0.0.tgz#3d70902de9b5424bb5d5ceec00fd05f3d635e50f"
 
-"@fdaciuk/ajax@^2.1.6":
+"@fdaciuk/ajax@2.3.0":
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/@fdaciuk/ajax/-/ajax-2.3.0.tgz#de1780cdaffa9733b845403de7035ae4961289d7"
 
@@ -342,10 +342,10 @@ async-validator@~1.8.1:
     babel-runtime "6.x"
 
 async@^2.0.0-rc.1, async@^2.1.2, async@^2.1.5:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.0.tgz#61a29abb6fcc026fea77e56d1c6ec53a795951f4"
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
   dependencies:
-    lodash "^4.14.0"
+    lodash "^4.17.14"
 
 asynckit@^0.4.0:
   version "0.4.0"
@@ -4517,13 +4517,9 @@ lodash.values@~2.4.1:
   dependencies:
     lodash.keys "~2.4.1"
 
-lodash@^4.0.0, lodash@^4.14.0, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.3.0, lodash@~4.17.4:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
-
-lodash@^4.11.2:
-  version "4.17.5"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.5.tgz#99a92d65c0272debe8c96b6057bc8fbfa3bed511"
+lodash@^4.0.0, lodash@^4.11.2, lodash@^4.17.14, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.3.0, lodash@~4.17.4:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 lodash@~1.0.1:
   version "1.0.2"
@@ -4803,6 +4799,10 @@ mkdirp@0.5.1, "mkdirp@>=0.5 0", mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0, mkd
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
   dependencies:
     minimist "0.0.8"
+
+moment@^2.24.0:
+  version "2.29.3"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.3.tgz#edd47411c322413999f7a5940d526de183c031f3"
 
 ms@2.0.0:
   version "2.0.0"
@@ -7303,6 +7303,10 @@ vue-amap@0.2.9:
   dependencies:
     core-js "^2.4.1"
     uppercamelcase "^1.1.0"
+
+vue-cookies@^1.5.7:
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/vue-cookies/-/vue-cookies-1.8.1.tgz#8aeadd7ff9933b820de8c3f121c2be27c5ead7b5"
 
 vue-hot-reload-api@^2.0.11:
   version "2.2.4"
