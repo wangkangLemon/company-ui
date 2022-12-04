@@ -10,7 +10,7 @@
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@arr/filter/-/filter-1.0.0.tgz#3d70902de9b5424bb5d5ceec00fd05f3d635e50f"
 
-"@fdaciuk/ajax@^2.1.6":
+"@fdaciuk/ajax@2.3.0":
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/@fdaciuk/ajax/-/ajax-2.3.0.tgz#de1780cdaffa9733b845403de7035ae4961289d7"
 
@@ -1973,8 +1973,8 @@ decimal.js@10.0.1:
   resolved "https://registry.yarnpkg.com/decimal.js/-/decimal.js-10.0.1.tgz#d04b16b277f0f9af09671cee225c4882e8857c58"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 deep-equal@~1.0.1:
   version "1.0.1"
@@ -4804,6 +4804,10 @@ mkdirp@0.5.1, "mkdirp@>=0.5 0", mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0, mkd
   dependencies:
     minimist "0.0.8"
 
+moment@^2.24.0:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
@@ -7303,6 +7307,10 @@ vue-amap@0.2.9:
   dependencies:
     core-js "^2.4.1"
     uppercamelcase "^1.1.0"
+
+vue-cookies@^1.5.7:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/vue-cookies/-/vue-cookies-1.8.2.tgz#39515fa09ebb585a50ac86c0e182a6b9307dc6ad"
 
 vue-hot-reload-api@^2.0.11:
   version "2.2.4"
